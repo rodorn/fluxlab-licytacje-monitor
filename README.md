@@ -1,5 +1,7 @@
 # Monitor licytacji komorniczych ruchomosci
 
+> Monitorowanie serwisów i pobieranie danych na zamówienie: [fluxlab.pl/scraping-danych](https://fluxlab.pl/scraping-danych?utm_source=github&utm_campaign=fluxlab-licytacje-monitor)
+
 Monitor publicznych licytacji komorniczych i syndyckich ruchomosci
 (maszyny budowlane, maszyny rolnicze, pojazdy) z oficjalnego portalu
 Krajowej Rady Komorniczej, ze scoringiem okazji i alertem.
